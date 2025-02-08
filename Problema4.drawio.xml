@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="-UbweGwBozx1rsVIpZrQ">
+    <mxGraphModel dx="298" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-1" target="7hqFP2jT80wjqdgwIH7E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-2" target="7hqFP2jT80wjqdgwIH7E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-2" value="Solicitar el ancho del rectángulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-4" target="7hqFP2jT80wjqdgwIH7E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-4" value="Solicitar la altura del rectángulo" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.506;exitY=0.773;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-6" target="7hqFP2jT80wjqdgwIH7E-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-6" value="&quot;Calcule el área:&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-8" target="7hqFP2jT80wjqdgwIH7E-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-8" value="ancho*altura" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-10" target="7hqFP2jT80wjqdgwIH7E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-10" value="&quot;Calcule el perímetro:&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-12" target="7hqFP2jT80wjqdgwIH7E-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-12" value="2*(ancho+altura)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hqFP2jT80wjqdgwIH7E-14" target="7hqFP2jT80wjqdgwIH7E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-14" value="Mostrar el área y el perímetro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hqFP2jT80wjqdgwIH7E-17" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="504.5" width="60" height="25.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

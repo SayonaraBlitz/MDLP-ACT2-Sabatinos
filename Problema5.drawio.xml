@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="iGYN94eOu7tPkhEgvD04">
+    <mxGraphModel dx="248" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-1" target="QJGBCo9ksEx1ME5BeCAT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-5" target="QJGBCo9ksEx1ME5BeCAT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-5" value="Leer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-7" target="QJGBCo9ksEx1ME5BeCAT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-7" value="Solicitar el radio de la esfera" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-9" target="QJGBCo9ksEx1ME5BeCAT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-9" value="&quot;Calcule el área:&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-11" target="QJGBCo9ksEx1ME5BeCAT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-11" value="4*π*r**2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.496;exitY=0.845;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-13" target="QJGBCo9ksEx1ME5BeCAT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-13" value="&quot;Calcule el volumen:&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-15" target="QJGBCo9ksEx1ME5BeCAT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-15" value="(4/3)*π*r**3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJGBCo9ksEx1ME5BeCAT-17" target="QJGBCo9ksEx1ME5BeCAT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-17" value="Mostrar el área y el volumen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="420" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJGBCo9ksEx1ME5BeCAT-19" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

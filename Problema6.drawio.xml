@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Página-1" id="JRYYLxR5ke_K7uxGZFrz">
+    <mxGraphModel dx="248" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-1" target="vwOXlDi7s-Y9NPddarTx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="50" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-2" target="vwOXlDi7s-Y9NPddarTx-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-2" value="Leer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.497;exitY=0.861;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-7" target="vwOXlDi7s-Y9NPddarTx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-7" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&quot;Comienza el proceso para calcular el resultado de la expresión matemática.&quot;&lt;/p&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-10" value="Solicitar al usuario los valores de a, b, c, d y e" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=0.857;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-14" target="vwOXlDi7s-Y9NPddarTx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-14" value="&quot;Calculemos el resultado utilizando la fórmula:&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-15" target="vwOXlDi7s-Y9NPddarTx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-15" value="resultado=a+(b*c)/d-e" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="380" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwOXlDi7s-Y9NPddarTx-17" target="vwOXlDi7s-Y9NPddarTx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-17" value="Mostrar el resultado calculado al usuario" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vwOXlDi7s-Y9NPddarTx-19" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
